@@ -1,0 +1,7 @@
+project_id = "dculagxzejeibgzmqasy"
+
+[functions.fetch-google-businesses]
+verify_jwt = false
+
+[functions.save-google-business]
+verify_jwt = false
